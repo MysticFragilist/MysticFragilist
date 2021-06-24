@@ -5,12 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticFragilist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div style="text-align: justify;">Hi I'm Sam! 😄 I'm a software developer who is passionate about a lot of things from designing a database structure to building a rich UI experience! I'm currently working for Fusion-Contact creating a CRM. I'm also in the process of learning Three.JS.</div>
-
+Hi I'm Sam! 😄 I'm a software developer who is passionate about a lot of things from designing a database structure to building a rich UI experience! I'm currently working for Fusion-Contact creating a CRM. I'm also in the process of learning Three.JS.
 
 ● ● ●
 
-<div style="text-align: justify;">Salut Mon nom est Sam! 😄 Je suis un développeur qui est passionné par toutes les facettes de développement en passant par le design d'architecture jusqu'à construire une expérience utilisateur (UX) riche! Je travaille présentement chez Fusion-Contact en tant que développeur full-stack. Je suis dans le processus d'apprendre Three.JS.</div>
+Salut Mon nom est Sam! 😄 Je suis un développeur qui est passionné par toutes les facettes de développement en passant par le design d'architecture jusqu'à construire une expérience utilisateur (UX) riche! Je travaille présentement chez Fusion-Contact en tant que développeur full-stack. Je suis dans le processus d'apprendre Three.JS.
 
 
 <a href="mailto:smontambault64@gmail.com">![smontambault64@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
