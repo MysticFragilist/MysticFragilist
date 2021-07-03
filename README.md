@@ -9,7 +9,7 @@ Hi I'm Sam! 😄 I'm a software developer who is passionate about a lot of thing
 
 ● ● ●
 
-Salut Mon nom est Sam! 😄 Je suis un développeur qui est passionné par toutes les facettes de développement en passant par le design d'architecture jusqu'à construire une expérience utilisateur (UX) riche! Je travaille présentement chez Fusion-Contact en tant que développeur full-stack. Je suis dans le processus d'apprendre Three.JS.
+Salut mon nom est Sam! 😄 Je suis un développeur qui est passionné par toutes les facettes de développement en passant par le design d'architecture jusqu'à la construction une expérience utilisateur (UX) riche! Je travaille présentement chez Fusion-Contact en tant que développeur full-stack. Je suis en processus d'apprentissage du cadriciel Three.JS.
 
 
 <a href="mailto:smontambault64@gmail.com">![smontambault64@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
