@@ -1,6 +1,13 @@
 ## Hi there 👋 Salut !
 ![Followers](https://img.shields.io/github/followers/MysticFragilist?style=social)
 
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=MysticFragilist&hide=stars&count_private=true&show_icons=true&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticFragilist&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
