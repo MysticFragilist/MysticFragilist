@@ -14,16 +14,16 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=MysticFragilist&hide=stars&count_private=true&show_icons=true&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysticFragilist&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-Hi I'm Sam! 😄 I'm a software developer who is passionate about a lot of things from designing a database structure to building a rich UI experience! I'm currently working for Fusion-Contact creating a CRM. I'm also in the process of learning Three.JS.
+Hi I'm Sam! 😄 I'm a software developer who is passionate about a lot of things from designing a database structure to building a rich UI experience! I'm currently working for Ubisoft Montréal as a tools programmer.
 
 ● ● ●
 
-Salut mon nom est Sam! 😄 Je suis un développeur qui est passionné par toutes les facettes de développement en passant par le design d'architecture jusqu'à la construction une expérience utilisateur (UX) riche! Je travaille présentement chez Fusion-Contact en tant que développeur full-stack. Je suis en processus d'apprentissage du cadriciel Three.JS.
-
+Salut mon nom est Sam! 😄 Je suis un développeur qui est passionné par toutes les facettes de développement en passant par le design d'architecture jusqu'à la construction une expérience utilisateur (UX) riche! Je travaille présentement chez Ubisoft Montréal en tant que développeur d'outils.
 
 ![ask anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-<a href="mailto:smontambault64@gmail.com">![smontambault64@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
+<a href="mailto:mont.samuel@outlook.com">![mont.samuel@outlook.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)</a>
+<a href="https://medium.com/@smontambault">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/samuel-montambault-62b543114/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
 
-![Built with love](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![test](https://github-readme-streak-stats.herokuapp.com/?user=MysticFragilist&theme=dark)
+![test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MysticFragilist&theme=github_dark)
